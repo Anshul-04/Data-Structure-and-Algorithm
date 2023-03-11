@@ -1,3 +1,5 @@
+package Star_Pattern_Programs;
+
 public class LeftStarTriangle {
 
     public static void leftStar(int n) {
@@ -26,11 +28,24 @@ public class LeftStarTriangle {
 
 /*
  
-
-           * 
-         * * 
-       * * * 
-     * * * * 
-   * * * * *
+     1 2 3 4 5     
+ 1           * 
+ 2         * * 
+ 3       * * * 
+ 4     * * * * 
+ 5   * * * * *
 
  */
+/* 
+   1 2 3 4 5 6 7 8 9
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9
+
+*/
