@@ -7,7 +7,7 @@ public class RightTriangleStar{
         for(int i=0;i<n;i++){
             // inner loop runs till the index of outer loop
             for(int j=0;j<=i;j++){
-                System.out.print("*");
+                System.out.print("* ");
             }
             System.out.println();
         }
