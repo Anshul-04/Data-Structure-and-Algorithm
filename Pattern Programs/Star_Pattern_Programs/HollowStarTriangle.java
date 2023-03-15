@@ -1,5 +1,8 @@
 package Star_Pattern_Programs;
-
+/* 
+        16. HOLLOW RIGHT TRIANGLE 
+ 
+ */
 public class HollowStarTriangle {
     public static void main(String[] args) {
         int n = 6;

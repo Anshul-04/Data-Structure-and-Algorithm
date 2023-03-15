@@ -1,8 +1,11 @@
 package Star_Pattern_Programs;
-
+/* 
+        7. PYRAMID 
+ 
+ */
 public class Pyramid {
     public static void main(String[] args) {
-            int n = 5;
+            int n = 6;
             pyramid(n);
     }
 
@@ -10,11 +13,11 @@ public class Pyramid {
 
         // for(int i=0 ; i < n ; i++){
         //     // For printing the spaces before stars in each row
-        //     for(int j=0 ; j < n-i-1 ; j++){
+        //     for(int j=0 ; j < (n-i-1) ; j++){
         //         System.out.print(" ");
         //     }
         //       // For printing the stars in each row
-        //     for(int j=0 ; j < 2*i+1 ; j++){
+        //     for(int j=0 ; j < (2*i+1) ; j++){
         //         System.out.print("*");
         //     }
         //       // For printing the spaces after the stars in each row

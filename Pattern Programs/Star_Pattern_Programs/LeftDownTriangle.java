@@ -1,5 +1,8 @@
 package Star_Pattern_Programs;
-
+/* 
+        4. LEFT DOWN TRIANGLE 
+ 
+ */
 public class LeftDownTriangle {
     public static void main(String[] args) {
         int n =6;
@@ -26,6 +29,7 @@ public class LeftDownTriangle {
 
 /*
    1 2 3 4 5 
+   
 1  * * * * *
 2    * * * * 
 3      * * * 

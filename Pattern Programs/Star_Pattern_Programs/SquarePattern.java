@@ -1,5 +1,10 @@
 package Star_Pattern_Programs;
 
+
+/* 
+        5. SQUARE
+ 
+ */
 public class SquarePattern {
     public static void main(String[] args) {
         int n=5;
@@ -22,6 +27,7 @@ public class SquarePattern {
  
 
    1 2 3 4 5 
+   
 1  * * * * *
 2  * * * * *
 3  * * * * *

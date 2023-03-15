@@ -1,4 +1,8 @@
 package Star_Pattern_Programs;
+/* 
+        2. LEFT TRIANGLE 
+ 
+ */
 
 public class LeftStarTriangle {
 

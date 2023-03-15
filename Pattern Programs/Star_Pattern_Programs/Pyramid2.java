@@ -1,5 +1,10 @@
 package Star_Pattern_Programs;
 
+/* 
+       8. PYRAMID WITH EQUAL NO OF STAR WRT ROWS
+ 
+ */
+
 public class Pyramid2 {
     public static void main(String[] args) {
         int n = 5;
@@ -12,7 +17,7 @@ public class Pyramid2 {
                 System.out.print(" ");
             }
             for(int j=1;j<=i;j++){
-                System.out.print("* ");
+                System.out.print("* "); //extra space with star
             }
             System.out.println();
     }
@@ -21,6 +26,12 @@ public class Pyramid2 {
 
 /* 
 
+
+=>  In This pattern No of star equals to the no of row.
+=>  The code is similar to left Triangle but while printing star i have added one more 
+     space with it
+
+
          1 2 3 4 5 
 1            *
 2           * *
@@ -28,6 +39,5 @@ public class Pyramid2 {
 4         * * * *
 5        * * * * *
 
-In this pattern No of star equals to the no of row.
 
 */

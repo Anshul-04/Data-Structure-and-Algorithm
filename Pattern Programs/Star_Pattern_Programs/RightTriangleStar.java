@@ -1,5 +1,10 @@
 package Star_Pattern_Programs;
 
+/* 
+        1. RIGHT TRIANGLE 
+ 
+ */
+
 public class RightTriangleStar{
 
     public static void rightStar(int n) {

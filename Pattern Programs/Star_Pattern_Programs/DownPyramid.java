@@ -1,5 +1,8 @@
 package Star_Pattern_Programs;
-
+/* 
+        9. DOWN PYRAMID
+ 
+ */
 public class DownPyramid {
     public static void main(String[] args) {
         int n = 5;

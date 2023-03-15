@@ -1,5 +1,8 @@
 package Star_Pattern_Programs;
-
+ /* 
+        3. RIGHT DOWN TRIANGLE 
+ 
+ */
 public class rightDownTriangle {
     public static void main(String[] args) {
         int n =5;
@@ -31,6 +34,7 @@ public class rightDownTriangle {
 
 /*   
     1 2 3 4 5
+    
 1   * * * * *
 2   * * * *
 3   * * *

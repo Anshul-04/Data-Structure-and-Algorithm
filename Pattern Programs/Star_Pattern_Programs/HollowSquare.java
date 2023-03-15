@@ -1,5 +1,8 @@
 package Star_Pattern_Programs;
-
+/* 
+        6. HOLLOW SQUARE
+ 
+ */
 public class HollowSquare {
     public static void main(String[] args) {
         int n = 5;
