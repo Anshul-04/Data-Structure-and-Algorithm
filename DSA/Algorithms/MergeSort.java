@@ -74,3 +74,11 @@ public class MergeSort {
         }
     }
 }
+/*       
+
+Time Complexity: 
+                 O(N log(N)),  Sorting arrays on different machines. Merge Sort is a recursive algorithm
+                 and time complexity can be expressed as following recurrence relation. 
+
+                    T(n) = 2T(n/2) + θ(n)
+ */
